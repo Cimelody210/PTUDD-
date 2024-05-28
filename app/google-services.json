@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "257700757691",
+    "firebase_url": "https://readingapp-bf401-default-rtdb.firebaseio.com",
+    "project_id": "readingapp-bf401",
+    "storage_bucket": "readingapp-bf401.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257700757691:android:87c5e775ea69692431e99e",
+        "android_client_info": {
+          "package_name": "vn.edu.dlu.ctk45.readingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7g-nKutddj1UyxEAsTz_8PkJvLe0mUEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
